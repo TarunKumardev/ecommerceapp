@@ -6,7 +6,8 @@ module.exports = {
     },
     "extends": [
       "standard-with-typescript",
-      "plugin:react/recommended"
+      "plugin:react/recommended",
+      "prettier"
     ],
     "overrides": [
       {
@@ -28,10 +29,12 @@ module.exports = {
       "project": "./tsconfig.json" // Add this line.
     },
     "plugins": [
-      "react"
+      "react",
+      "prettier"
     ],
     "rules": {
-        "react/react-in-jsx-scope": "off" // Add this line to disable the rule
+        "react/react-in-jsx-scope": "off" ,// Add this line to disable the rule
+        "prettier/prettier": "error"
     }
   }
   
