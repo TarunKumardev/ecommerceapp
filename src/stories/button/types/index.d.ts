@@ -12,6 +12,7 @@ export interface IButton {
   href?: string;
   startIcon?: ReactNode;
   endIcon?: ReactNode;
+  disabled?: boolean;
   target?: HTMLAttributeAnchorTarget;
   style?: CSSProperties;
 }

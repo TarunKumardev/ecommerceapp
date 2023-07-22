@@ -6,9 +6,23 @@ const meta: Meta = {
 };
 export default meta;
 type Story = StoryObj<typeof Button>;
-export const Block: Story = {
+export const contained: Story = {
   args: {
     children: 'button',
     variant: 'contained',
+  },
+};
+
+export const outlined: Story = {
+  args: {
+    children: 'button',
+    variant: 'outlined',
+  },
+};
+
+export const text: Story = {
+  args: {
+    children: 'button',
+    variant: 'text',
   },
 };

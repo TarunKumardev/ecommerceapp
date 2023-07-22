@@ -15,6 +15,7 @@ function Button({
   target,
   onClick,
   style,
+  disabled,
   ...rest
 }: IButton): ReactNode {
   const applyStartIcon = startIcon ?? null;
@@ -44,10 +45,10 @@ function Button({
       </a>
     );
   }
-
+  const isDisabled = !!(disabled ?? loading);
   return (
     <button
-      disabled={loading}
+      disabled={isDisabled}
       aria-label={ariaLabel}
       type={type}
       className={mergedClasses}
