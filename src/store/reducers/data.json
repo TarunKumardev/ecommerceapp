@@ -1,0 +1,680 @@
+{
+    "record": {
+        "data": {
+            "/products/the-sea-star-charm": {
+                "product": 7263948734624,
+                "atctext": "Add to Bag",
+                "collection": [
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315055116448,
+                            7315050954912
+                        ]
+                    },
+                    {
+                        "title": "Anklets",
+                        "collectionid": 295571849376,
+                        "product": [
+                            7262070538400
+                        ]
+                    }
+                ]
+            },
+            "/products/the-beach-drift-charm": {
+                "product": 7263950176416,
+                "collection": [
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261298426016,
+                            7261286498464
+                        ]
+                    },
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315055378592
+                        ]
+                    }
+                ]
+            },
+            "/products/the-gentle-turtle-charm-1": {
+                "product": 7291070152864,
+                "collection": [
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315046072480,
+                            7315055247520
+                        ]
+                    },
+                    {
+                        "title": "Sunglass Chains",
+                        "collectionid": 296014446752,
+                        "product": [
+                            7261783064736
+                        ]
+                    }
+                ]
+            },
+            "/products/the-wave-breaker-charm": {
+                "product": 7291071299744,
+                "collection": [
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315055116448,
+                            7315055247520
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261319626912
+                        ]
+                    }
+                ]
+            },
+            "/products/the-stingy-jelly-charm": {
+                "product": 7291098136736,
+                "collection": [
+                    {
+                        "title": "Earrings ",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315026641056
+                        ]
+                    },
+                    {
+                        "title": "Bracelets",
+                        "collectionid": 285830021280,
+                        "product": [
+                            7262029742240
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261298426016
+                        ]
+                    }
+                ]
+            },
+            "/products/the-sea-hive-charm": {
+                "product": 7291072282784,
+                "collection": [
+                    {
+                        "title": "Earrings ",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315035848864
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261319430304,
+                            7261286498464
+                        ]
+                    }
+                ]
+            },
+            "/products/the-crabs-treasure-charm-1": {
+                "product": 7291069694112,
+                "collection": [
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261289480352,
+                            7261311369376
+                        ]
+                    },
+                    {
+                        "title": "Anklets",
+                        "collectionid": 295571849376,
+                        "product": [
+                            7262070538400
+                        ]
+                    }
+                ]
+            },
+            "/products/the-wild-haathi-charm": {
+                "product": 7291176976544,
+                "collection": [
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261313400992
+                        ]
+                    },
+                    {
+                        "title": "Bracelets",
+                        "collectionid": 285830021280,
+                        "product": [
+                            7262047109280
+                        ]
+                    }
+                ]
+            },
+            "/products/the-purple-beanstalk-charm": {
+                "product": 7291177926816,
+                "collection": [
+                    {
+                        "title": "Anklets ",
+                        "collectionid": 295571849376,
+                        "product": [
+                            7262093410464
+                        ]
+                    },
+                    {
+                        "title": "Earrings ",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315055116448
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261301178528
+                        ]
+                    }
+                ]
+            },
+            "/products/the-sassy-cat-charm": {
+                "product": 7291172815008,
+                "collection": [
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261309173920,
+                            7261310714016
+                        ]
+                    },
+                    {
+                        "title": "Anklets ",
+                        "collectionid": 295571849376,
+                        "product": [
+                            7262063362208
+                        ]
+                    }
+                ]
+            },
+            "/products/the-dragon-blood-charm": {
+                "product": 7291175731360,
+                "collection": [
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261304750240
+                        ]
+                    },
+                    {
+                        "title": "Sunglass Chains",
+                        "collectionid": 296014446752,
+                        "product": [
+                            7261996679328
+                        ]
+                    },
+                    {
+                        "title": "Earrings ",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315026149536
+                        ]
+                    }
+                ]
+            },
+            "/products/the-lucky-lizard-charm": {
+                "product": 7291174289568,
+                "collection": [
+                    {
+                        "title": "Earrings ",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315047383200
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261318283424
+                        ]
+                    },
+                    {
+                        "title": "Bracelets",
+                        "collectionid": 285830021280,
+                        "product": [
+                            7262048845984
+                        ]
+                    }
+                ]
+            },
+            "/products/the-dancing-scorpion-charm": {
+                "product": 7291171569824,
+                "collection": [
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261313400992,
+                            7261320052896
+                        ]
+                    },
+                    {
+                        "title": "Sunglass Chains",
+                        "collectionid": 296014446752,
+                        "product": [
+                            7261779919008
+                        ]
+                    }
+                ]
+            },
+            "/products/the-african-violet-charm": {
+                "product": 7291169767584,
+                "collection": [
+                    {
+                        "title": "Earrings ",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315055247520
+                        ]
+                    },
+                    {
+                        "title": "Sunglass Chains",
+                        "collectionid": 296014446752,
+                        "product": [
+                            7261783064736,
+                            7261996679328
+                        ]
+                    }
+                ]
+            },
+            "/products/the-blue-cockatoo-charm": {
+                "product": 7291168129184,
+                "collection": [
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315048759456,
+                            7315055116448
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261308616864
+                        ]
+                    }
+                ]
+            },
+            "/products/the-echo-gecko-charm": {
+                "product": 7291167080608,
+                "collection": [
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7313890869408
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261298426016,
+                            7261308616864
+                        ]
+                    },
+                    {
+                        "title": "Sunglass Chains",
+                        "collectionid": 296014446752,
+                        "product": [
+                            7261783785632
+                        ]
+                    }
+                ]
+            },
+            "/products/the-painted-lady-charm": {
+                "product": 7291165704352,
+                "collection": [
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315051511968,
+                            7315026149536
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261298426016
+                        ]
+                    }
+                ]
+            },
+            "/products/the-gilded-beetle-charm": {
+                "product": 7291164950688,
+                "collection": [
+                    {
+                        "title": "Anklets",
+                        "collectionid": 295571849376,
+                        "product": [
+                            7262094950560
+                        ]
+                    },
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315055542432,
+                            7315046072480
+                        ]
+                    }
+                ]
+            },
+            "/products/the-spirited-charm": {
+                "product": 7291134443680,
+                "collection": [
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315046072480
+                        ]
+                    },
+                    {
+                        "title": "Bracelets",
+                        "collectionid": 285830021280,
+                        "product": [
+                            7262003265696
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261290102944
+                        ]
+                    }
+                ]
+            },
+            "/products/the-sacred-orchid-charm": {
+                "product": 7291133427872,
+                "collection": [
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7313849909408
+                        ]
+                    },
+                    {
+                        "title": "Sunglass Chains",
+                        "collectionid": 296014446752,
+                        "product": [
+                            7261779919008
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261314023584
+                        ]
+                    }
+                ]
+            },
+            "/products/the-blazing-star-charm": {
+                "product": 7458698920096,
+                "collection": [
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261319430304,
+                            7261313892512
+                        ]
+                    },
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315054461088
+                        ]
+                    }
+                ]
+            },
+            "/products/the-milky-dust-charm": {
+                "product": 7291129528480,
+                "collection": [
+                    {
+                        "title": "Sunglass Chains",
+                        "collectionid": 296014446752,
+                        "product": [
+                            7261779296416
+                        ]
+                    },
+                    {
+                        "title": "Bracelets",
+                        "collectionid": 285830021280,
+                        "product": [
+                            7262047109280
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261319430304
+                        ]
+                    }
+                ]
+            },
+            "/products/the-neptunes-orb-charm": {
+                "product": 7291103772832,
+                "collection": [
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315046891680
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261315727520
+                        ]
+                    },
+                    {
+                        "title": "Sunglass Chains",
+                        "collectionid": 296014446752,
+                        "product": [
+                            7261779296416
+                        ]
+                    }
+                ]
+            },
+            "/products/the-day-break-charm": {
+                "product": 7291106263200,
+                "collection": [
+                    {
+                        "title": "Sunglass Chains",
+                        "collectionid": 296014446752,
+                        "product": [
+                            7261993599136
+                        ]
+                    },
+                    {
+                        "title": "Bracelets",
+                        "collectionid": 285830021280,
+                        "product": [
+                            7262052679840
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7258541031584
+                        ]
+                    }
+                ]
+            },
+            "/products/the-moon-sickle-charm": {
+                "product": 7291132280992,
+                "collection": [
+                    {
+                        "title": "Anklets",
+                        "collectionid": 295571849376,
+                        "product": [
+                            7262070538400
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261315727520
+                        ]
+                    },
+                    {
+                        "title": "Bracelets",
+                        "collectionid": 285830021280,
+                        "product": [
+                            7262029742240
+                        ]
+                    }
+                ]
+            },
+            "/products/the-celestial-shower-charm": {
+                "product": 7291100528800,
+                "collection": [
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315051184288,
+                            7315051937952
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261320970400
+                        ]
+                    }
+                ]
+            },
+            "/products/the-titans-haze-charm": {
+                "product": 7291102724256,
+                "collection": [
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315054461088
+                        ]
+                    },
+                    {
+                        "title": "Anklets",
+                        "collectionid": 295571849376,
+                        "product": [
+                            7262081843360
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261319626912,
+                            7261289480352
+                        ]
+                    }
+                ]
+            },
+            "/products/the-inter-stellar-charm": {
+                "product": 7291130904736,
+                "collection": [
+                    {
+                        "title": "Anklets",
+                        "collectionid": 295571849376,
+                        "product": [
+                            7262094950560
+                        ]
+                    },
+                    {
+                        "title": "Neck Pieces",
+                        "collectionid": 285829857440,
+                        "product": [
+                            7261313794208,
+                            7261298426016,
+                            7261308616864
+                        ]
+                    }
+                ]
+            },
+            "/products/the-demi-luna-charm": {
+                "product": 7291104886944,
+                "collection": [
+                    {
+                        "title": "Earrings",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7315050627232,
+                            7315055116448
+                        ]
+                    },
+                    {
+                        "title": "Sunglass Chains",
+                        "collectionid": 296014446752,
+                        "product": [
+                            7261783785632
+                        ]
+                    }
+                ]
+            },
+            "/products/barguette-cluster-stud":{
+                "product" : "7315039551648",
+                "collection" :[
+                    {
+                        "title": "Anklets",
+                        "collectionid": 285830086816,
+                        "product": [
+                            7291176976544,
+                            7291072282784
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "metadata": {
+        "id": "64a56b729d312622a37aa639",
+        "private": false,
+        "createdAt": "2023-07-05T13:09:06.018Z",
+        "name": "charm3"
+    }
+}

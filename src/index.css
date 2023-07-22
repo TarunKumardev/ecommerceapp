@@ -1,0 +1,11 @@
+@import url('./styles/reset.css');
+
+@font-face {
+    font-family: "futura";
+    src: url('./assets/fonts/Futura Thin.ttf') format("truetype"),
+         url('./assets/fonts/Futura Std Heavy.ttf') format("truetype"),
+         url('./assets/fonts/Futura Std Book.ttf') format("truetype"),
+         url('./assets/fonts/Futura Round.ttf') format("truetype"),
+         url('./assets/fonts/Futura Book.ttf') format("truetype"),
+         url('./assets/fonts/Futura Bold.ttf') format("truetype");  
+}
