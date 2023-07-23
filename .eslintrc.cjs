@@ -38,7 +38,8 @@ module.exports = {
     "prettier"
   ],
   "rules": {
+    "prettier/prettier": "error",
     "react/react-in-jsx-scope": "off",
-    "prettier/prettier": "error"
+    
   }
 }

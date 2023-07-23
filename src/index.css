@@ -1,0 +1,18 @@
+@import url('./styles/reset.css');
+
+@font-face {
+    font-family: "helvetica";
+    src: url('./assets/fonts/Helvetica-Bold.ttf') format("truetype"),
+         url('./assets/fonts/Helvetica-BoldOblique.ttf') format("truetype"),
+         url('./assets/fonts/helvetica-compressed-5871d14b6903a.otf') format("truetype"),
+         url('./assets/fonts/helvetica-light-587ebe5a59211.ttf') format("truetype"),
+         url('./assets/fonts/Helvetica-Oblique.ttf') format("truetype"),
+         url('./assets/fonts/helvetica-rounded-bold-5871d05ead8de.otf') format("truetype"), 
+         url('./assets/fonts/Helvetica.ttf') format("truetype")  
+}
+
+
+/* helvetica */
+p, h1, h2, h3, h4, h5, h6 {
+font-family: helvetica sans-serif ;
+}
