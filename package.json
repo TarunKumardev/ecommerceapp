@@ -11,7 +11,8 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
     "test": "vitest",
-    "coverage": "vitest run --coverage"
+    "coverage": "vitest run --coverage",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
@@ -45,7 +46,8 @@
     "storybook": "7.0.26",
     "typescript": "*",
     "vite": "^4.4.0",
-    "vitest": "^0.33.0"
+    "vitest": "^0.33.0",
+    "husky": "^8.0.0"
   },
   "main": "index.js",
   "license": "MIT"
